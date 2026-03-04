@@ -1,0 +1,36 @@
+# 操作系统相关
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器相关
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+*.bak
+
+# 不提交的个人笔记（可选）
+# members/*/private/
+
+# Node.js（如果使用）
+node_modules/
+package-lock.json
+
+# Python（如果使用）
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+env/
+
+# 其他
+.env
+.env.local
