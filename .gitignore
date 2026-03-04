@@ -1,36 +1,24 @@
-# 操作系统相关
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# 编辑器相关
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# 临时文件
-*.tmp
-*.temp
+# Logs
+logs
 *.log
-*.bak
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 
-# 不提交的个人笔记（可选）
-# members/*/private/
+node_modules
+dist
+dist-ssr
+*.local
 
-# Node.js（如果使用）
-node_modules/
-package-lock.json
-
-# Python（如果使用）
-__pycache__/
-*.pyc
-*.pyo
-.Python
-venv/
-env/
-
-# 其他
-.env
-.env.local
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
