@@ -43,12 +43,39 @@
 **（所有内容均可修改）**
 
 
+
 ---
 
 ### 阶段二
 
-### 阶段三
+#### 2026-2-10
+- **完成任务**：添加暗夜模式切换、技能进度条动画、数字计数、项目懒加载、表单验证
+- **估计完成时间**：2小时
+- **相关链接**：
+  - [个人链接](https://github.com/TongYing1220/Web-Team-Training-Program/index.html)
+- **备注**：无
 
+#### 2026-2-12
+- **完成任务**：完成初步React简历项目文件，包含组件化、暗黑模式、Props传参功能
+- **估计完成时间**：3小时
+- **相关链接**：
+  - [个人链接](https://github.com/TongYing1220/Web-Team-Training-Program/tree/main/resume-react)
+- **备注**：无
+
+#### 2026-2-15
+- **完成任务**：使用 React Router 实现路由，实现组件通信，构建多页面应用
+- **估计完成时间**：3小时
+- **相关链接**：
+  - [个人链接](https://github.com/TongYing1220/Web-Team-Training-Program/tree/main/resume-react_ver1)
+- **备注**：无
+
+### 阶段三
+#### 2026-3-4
+- **完成任务**：优化导航栏，使用手风琴样式美化界面，添加粒子背景，添加背景音乐。
+- **估计完成时间**：3小时
+- **相关链接**：
+  - [个人链接](https://github.com/TongYing1220/Resume-ver2)
+- **备注**：无
 ---
 
 ## 🎯 当前任务
